@@ -38,10 +38,6 @@ body {
 
 .column-element{
     transition: transform 0.3s ease;
-   
-    
-    /* border: 2px solid black; */
-
 }
 
 .column-element:hover{
