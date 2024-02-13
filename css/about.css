@@ -1,0 +1,16 @@
+.title-section{
+    font-size: 60px !important;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.paragraph-family{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 30px;
+    word-spacing: 5px;
+}
+
+.form-login{
+    width: 500px;
+    margin: 0 auto;
+}
