@@ -68,6 +68,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="./index.html">Log Out</a>
                             </li>
+                            
                         </ul>
                     </div>
                 </div>
